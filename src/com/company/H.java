@@ -1,8 +1,7 @@
 package com.company;
 
-public class Main {
-
+public class H {
     public static void main(String[] args) {
-        System.out.println("ddd");
+        System.out.println("66556");
     }
 }
